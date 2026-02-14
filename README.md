@@ -1,4 +1,4 @@
-# CloudGuard – AWS Cost & Stability Audit
+# cloud-cost-governance-framework
 
 CloudGuard is a **short, focused AWS audit** designed to help startups and small teams
 understand where their cloud money is going and identify stability risks —
